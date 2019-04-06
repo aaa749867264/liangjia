@@ -10,6 +10,7 @@ public class EurekaApp {
 	public static void main(String[] args) {
 		
 		System.out.println("可以提交上去吗？");   
+		
 		SpringApplication.run(EurekaApp.class, args);
 	}
 }
